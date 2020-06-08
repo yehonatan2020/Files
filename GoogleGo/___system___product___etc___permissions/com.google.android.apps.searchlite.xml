@@ -1,0 +1,31 @@
+<permissions>
+  <privapp-permissions package="com.google.android.apps.searchlite">
+    <permission name="android.permission.ACCESS_NETWORK_STATE" />
+  <permission name="android.permission.ACCESS_WIFI_STATE" />
+  <permission name="android.permission.GET_PACKAGE_SIZE" />
+  <permission name="android.permission.INTERNET" />
+  <permission name="android.permission.WAKE_LOCK" />
+  <permission name="android.permission.ACCESS_FINE_LOCATION" />
+  <permission name="android.permission.READ_EXTERNAL_STORAGE" />
+  <permission name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <permission name="android.permission.RECEIVE_BOOT_COMPLETED" />
+  <permission name="android.permission.RECORD_AUDIO" />
+  <permission name="android.permission.REQUEST_INSTALL_PACKAGES" />
+  <permission name="android.permission.GET_ACCOUNTS' maxSdkVersion='22" />
+  <permission name="android.permission.MANAGE_ACCOUNTS' maxSdkVersion='22" />
+  <permission name="com.android.alarm.permission.SET_ALARM" />
+  <permission name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+  <permission name="com.google.android.c2dm.permission.RECEIVE" />
+  <permission name="android.permission.DOWNLOAD_WITHOUT_NOTIFICATION" />
+  <permission name="android.permission.FOREGROUND_SERVICE" />
+  <permission name="com.google.android.finsky.permission.DSE" />
+  <permission name="android.permission.BLUETOOTH" />
+  <permission name="android.permission.BLUETOOTH_ADMIN" />
+  <permission name="android.permission.CHANGE_WIFI_STATE" />
+  <permission name="android.permission.CALL_PHONE" />
+  <permission name="android.permission.CAMERA" />
+  <permission name="android.permission.READ_CALENDAR" />
+  <permission name="android.permission.READ_CONTACTS" />
+  <permission name="android.permission.REORDER_TASKS" />
+  </privapp-permissions>
+</permissions>
